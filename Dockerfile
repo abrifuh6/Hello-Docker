@@ -1,3 +1,4 @@
+#docker file for my demo-app
 FROM node:alpine
 COPY . /app
 WORKDIR /app
